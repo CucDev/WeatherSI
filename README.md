@@ -22,4 +22,6 @@ Se construira con Angular, se realizarán mockups para cada vista.
 - ¿Qué es WeatherSI?
 - Colaboradores
 
+### Contribuir
+[Para contribuir lee esto](https://github.com/CucDev/WeatherSI/blob/master/CONTRIBUTING.md)
 > Por el momento se estan creando las vistas para el FrontEnd y algunas modificaciones
