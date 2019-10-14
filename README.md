@@ -1,5 +1,5 @@
 ## PROYECTO DE METEOROLOGÍA
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/WeatherSI/issues/) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/WeatherSI/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/CucDev/WeatherSI/issues) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/CucDev/WeatherSI/graphs/contributors)
 
 Proyecto básico de meteorología entre todos los que deseen colaborar de la comunidad. El proyecto se basa en generar por el momento una webapp.
 En ella se mostrarán los datos:
